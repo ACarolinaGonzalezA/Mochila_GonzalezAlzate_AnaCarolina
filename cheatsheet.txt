@@ -1,0 +1,49 @@
+-------Comandos de Git Bash:
+
+cd [directorio]: Cambia el directorio actual al directorio especificado.
+
+ls: Lista los archivos y directorios en el directorio actual.
+
+mkdir [nombre_directorio]: Crea un nuevo directorio con el nombre especificado.
+
+touch [nombre_archivo]: Crea un nuevo archivo con el nombre especificado.
+
+rm [nombre_archivo]: Elimina el archivo especificado.
+
+rm -r [nombre_directorio]: Elimina el directorio especificado y su contenido de forma recursiva.
+
+cp [archivo_origen] [archivo_destino]: Copia el archivo de origen al archivo de destino.
+
+mv [archivo_origen] [archivo_destino]: Mueve o cambia el nombre del archivo de origen al archivo de destino.
+
+git: Ejecuta comandos de Git en Git Bash. Puedes utilizar todos los comandos de Git mencionados anteriormente.
+
+clear: Limpia la pantalla de la terminal.
+
+
+
+------Comandos Git ------
+
+git init: Inicializa un nuevo repositorio Git en el directorio actual.
+
+git clone [URL]: Clona un repositorio existente en un nuevo directorio.
+
+git add [archivo]: Agrega un archivo específico al área de preparación para ser commitado.
+
+git add . o git add --all: Agrega todos los archivos modificados al área de preparación.
+
+git commit -m "[mensaje]": Realiza un commit de los cambios añadidos al área de preparación con un mensaje descriptivo.
+
+git status: Muestra el estado actual del repositorio, mostrando los archivos modificados, agregados o eliminados.
+
+git log: Muestra el historial de commits realizados en el repositorio.
+
+git push origin main: Envía los commits locales al repositorio remoto.
+
+git pull origin main: Obtiene los cambios más recientes del repositorio remoto y los fusiona con la rama local actual.
+
+git branch: Muestra una lista de ramas en el repositorio.
+
+git checkout [rama]: Cambia a la rama especificada.
+
+git merge [rama]: Fusiona la rama especificada con la rama actual.
