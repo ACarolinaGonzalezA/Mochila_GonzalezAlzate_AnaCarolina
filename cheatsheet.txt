@@ -4,6 +4,8 @@ cd [directorio]: Cambia el directorio actual al directorio especificado.
 
 ls: Lista los archivos y directorios en el directorio actual.
 
+ls -1R: Lista los archivos y directorios en un formato bonito.
+
 mkdir [nombre_directorio]: Crea un nuevo directorio con el nombre especificado.
 
 touch [nombre_archivo]: Crea un nuevo archivo con el nombre especificado.
