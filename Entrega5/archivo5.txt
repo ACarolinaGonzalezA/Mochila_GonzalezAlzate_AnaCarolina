@@ -1,1 +1,4 @@
 VENTAJAS TELNET: 1) es un protocolo facil de implementar para acceder a dispositivos remotos. 2) es accesible y utilizable en diversas plataformas.  DESVENTAJAS: 1) Carece de seguridad y puede ser facilmente intercepada por cualquier persona en la red. 2) carece de funciones de administracion avanzadas 
+Ventajas SSH:1)su enfoque en la seguridad ya que utiliza cifrado de extremo a extremo para proteger las comunicaciones, lo que significa que los datos transmitidos están protegidos contra la interceptación y el acceso no autorizado. 
+2) SSH proporciona métodos de autenticación seguros, como claves públicas y privadas, que son mucho más seguros que las contraseñas tradicionales. 
+Desventajas SSH: 1) Configuración más compleja 2) El puerto predeterminado para SSH es el puerto 22, lo que significa que si se utiliza una configuración no estándar o si el puerto está bloqueado por un firewall, puede haber dificultades para establecer la conexión remota. 
