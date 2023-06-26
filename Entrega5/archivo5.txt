@@ -1,0 +1,1 @@
+VENTAJAS TELNET: 1) es un protocolo facil de implementar para acceder a dispositivos remotos. 2) es accesible y utilizable en diversas plataformas.  DESVENTAJAS: 1) Carece de seguridad y puede ser facilmente intercepada por cualquier persona en la red. 2) carece de funciones de administracion avanzadas 
